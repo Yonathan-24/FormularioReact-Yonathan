@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import Formulario from './componentes/Formulario';
-import DatosIngresados from './componentes/Resultado';
+import DatosIngresados from './componentes/Formulario';
 
 const App = () => {
   const [formData, setFormData] = useState({
